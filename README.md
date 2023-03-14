@@ -60,4 +60,4 @@ rm -r builddir
  * [Enes Ekici](https://github.com/TRKirua)
  * [Emon Barberis](https://github.com/EmonBar)
  * [Samy Abou-al-Tout](https://github.com/locovamos)
- * [Jean-Marc Twagirakristu]()
+ * [Jean-Marc Twagirakristu](https://github.com/Watcher2025)
