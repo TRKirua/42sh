@@ -1,5 +1,5 @@
 # 42sh
-POSIX standarts compliant shell implementation in C language.\
+POSIX standards compliant shell implementation in C language.\
 \
 Implementation of several commands :
 - if, else, elif, fi
